@@ -1,64 +1,90 @@
-<img width="100%" alt="Mustafa Şenyüz profile header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Mustafa%20%C5%9Eeny%C3%BCz&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Mobile%20First%20Full%20Stack%20Developer&descSize=18&descAlignY=57" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
+  <img width="100%" alt="Mustafa Şenyüz — frontend-focused developer" src="./assets/profile-hero-dark.svg" />
+</picture>
+
+<h3 align="center">Frontend first. Mobile focused. Growing into the full stack.</h3>
 
 <p align="center">
-  <a href="https://github.com/mustafasenyusz">
-    <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=React+Native+%26+Expo+Developer;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Building+mobile+products+end+to+end" />
-  </a>
+  I build product-focused mobile interfaces with React Native, Expo, and TypeScript.<br/>
+  I also work with Node.js and Express, while actively improving my PostgreSQL and database-design skills.
 </p>
-
-<h3 align="center">I turn product ideas into focused, mobile-first experiences.</h3>
-
-<p align="center">
-  I build with React Native and TypeScript, connect products to Node.js APIs and PostgreSQL,<br/>
-  and keep improving the architecture behind every new project.
-</p>
-
-<br/>
 
 ## About me
 
-- Mobile developer focused on **React Native, Expo and TypeScript**
-- Building full-stack products with **Node.js, Express and PostgreSQL**
-- Interested in clean data flow, reusable UI systems and practical product design
-- Currently turning learning projects into more scalable, production-minded applications
+- Frontend-focused developer working mainly with **React Native, Expo, and TypeScript**
+- Comfortable building state-driven interfaces with **Redux Toolkit**
+- Able to create REST APIs with **Node.js and Express**
+- Actively developing my **PostgreSQL, SQL, and database architecture** knowledge
+- Interested in clean UI systems, predictable data flow, and practical product design
 - Based in Türkiye
 
-## Tech stack
+## Toolbox
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Technology stack" src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,redux,git,github,vscode&perline=10" />
-  </a>
+<p>
+  <strong>Frontend</strong><br/>
+  <img alt="Frontend technologies" src="https://skillicons.dev/icons?i=ts,js,react,redux,html,css&perline=8" />
 </p>
 
-## Featured projects
+<p>
+  <strong>Backend & database — growing</strong><br/>
+  <img alt="Backend and database technologies" src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=8" />
+</p>
+
+<p>
+  <strong>Workflow</strong><br/>
+  <img alt="Developer tools" src="https://skillicons.dev/icons?i=git,github,vscode&perline=8" />
+</p>
+
+## Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mustafasenyusz/BillBuddy">BillBuddy</a></h3>
-      <p>Smart bill and expense management app with centralized state, typed data flows and a polished mobile experience.</p>
+      <p>A polished bill-management experience built around typed state, persistent local data, and detailed mobile UI.</p>
       <p><strong>React Native · Expo · TypeScript · Redux Toolkit</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mustafasenyusz/Astra-Focus">Astra Focus</a></h3>
-      <p>Priority-driven goal management system designed around focus, visual hierarchy and persistent state.</p>
+      <p>A priority-driven goal manager with file-based routing, focused visual hierarchy, and persisted state.</p>
       <p><strong>Expo Router · TypeScript · Redux Persist</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mustafasenyusz/memoirly">Memoirly</a></h3>
-      <p>A personal diary app documenting the transition from local component state to a maintainable Redux architecture.</p>
+      <h3><a href="https://github.com/mustafasenyusz/Memoirly">Memoirly</a></h3>
+      <p>An offline-first personal journal documenting my move toward a more maintainable frontend architecture.</p>
       <p><strong>React Native · Redux Toolkit · AsyncStorage</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mustafasenyusz/senyuszPay">SenyuszPay</a></h3>
-      <p>Full-stack personal expense tracker connecting a mobile client to an Express API and PostgreSQL database.</p>
+      <h3><a href="https://github.com/mustafasenyusz/SenyuszPay">SenyuszPay</a></h3>
+      <p>A mobile expense tracker connected to a custom Express API and PostgreSQL database.</p>
+      <p><strong>React Native · Node.js · Express · PostgreSQL</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mustafasenyusz/JournalStack">JournalStack</a></h3>
+      <p>A full-stack journal exploring user-specific relational data and mobile-to-API communication.</p>
+      <p><strong>Expo · Express · PostgreSQL</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mustafasenyusz/Listora">Listora</a></h3>
+      <p>A clean shopping-list client backed by account-based API routes and persistent PostgreSQL data.</p>
       <p><strong>React Native · Node.js · Express · PostgreSQL</strong></p>
     </td>
   </tr>
 </table>
+
+## Current direction
+
+```text
+Strongest today     → React Native, Expo, TypeScript, frontend architecture
+Already building    → Node.js and Express REST APIs
+Actively improving  → PostgreSQL, SQL modeling, backend structure and testing
+```
 
 ## GitHub activity
 
@@ -82,5 +108,3 @@
     <img alt="Explore my repositories" src="https://img.shields.io/badge/Explore%20my%20projects-18181B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=120&section=footer" />
