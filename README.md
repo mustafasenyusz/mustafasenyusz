@@ -42,6 +42,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/mustafasenyusz/Ruya-Sitesi">Rüya Sitesi</a></h3>
+      <p>A role-based residential management platform for admins, managers, and residents, covering users, notices, dues, issues, and site settings. It connects an Expo client to Express and PostgreSQL through configurable API flows.</p>
+      <p><strong>React Native · Expo · TypeScript · Node.js · PostgreSQL</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mustafasenyusz/SenyuzKafe">SenyuzKafe</a></h3>
+      <p>A multi-role cafe operations app for customers, waiters, kitchen, cashier, and admins, covering tables, menus, orders, and payments. Authentication is backed by Express and PostgreSQL, with operational modules designed for staged API migration.</p>
+      <p><strong>React Native · Expo · TypeScript · Redux Toolkit · Node.js</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/mustafasenyusz/BillBuddy">BillBuddy</a></h3>
       <p>A polished bill-management experience built around typed state, persistent local data, and detailed mobile UI.</p>
       <p><strong>React Native · Expo · TypeScript · Redux Toolkit</strong></p>
